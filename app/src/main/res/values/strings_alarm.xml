@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="walk_to_snooze">Walk to snooze</string>
+    <string name="walk_to_dismiss">Walk to dismiss</string>
+    <string name="steps_progress">%1$d / %2$d steps</string>
+    <string name="snoozes_used">Snoozes used: %1$d of %2$d</string>
+    <string name="next_snooze_length">Next snooze: %1$d min</string>
+    <string name="snooze_until_button">Snooze until…</string>
+    <string name="snooze_until_title">Snooze until</string>
+</resources>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sleep Alarm</string>
+
+    <string name="notifications_denied_warning">Without notifications the wake-up screen can\'t appear. Enable them for Sleep Alarm in Settings.</string>
+    <string name="inexact_alarm_warning">Alarm set, but it may ring up to 10 minutes late. Allow exact alarms in settings for precise timing.</string>
+    <string name="full_screen_intent_warning">Allow full-screen notifications so the alarm can wake the screen.</string>
+    <string name="alarm_ringing">Alarm ringing</string>
+    <string name="open_alarm_screen">Open alarm screen</string>
+    <string name="alarms_section">Alarms</string>
+    <string name="delete_alarm">Delete alarm</string>
+    <string name="day_letter_monday">M</string>
+    <string name="day_letter_tuesday">T</string>
+    <string name="day_letter_wednesday">W</string>
+    <string name="day_letter_thursday">T</string>
+    <string name="day_letter_friday">F</string>
+    <string name="day_letter_saturday">S</string>
+    <string name="day_letter_sunday">S</string>
+    <string name="when_sleep_question">When are you going to sleep?</string>
+    <string name="sleep_right_now">Right now</string>
+    <string name="pick_a_time">Pick a time</string>
+    <string name="at_time">At %1$s</string>
+    <string name="sleep_duration_question">How long do you want to sleep?</string>
+    <string name="hours_value">%1$.1f hours</string>
+    <string name="wake_up_preview">You would wake up at</string>
+    <string name="set_alarm">Set alarm</string>
+    <string name="snooze_length">Snooze length</string>
+    <string name="minutes_choice">%1$d min</string>
+    <string name="math_difficulty">Challenge difficulty</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="challenge_type">Challenge type</string>
+    <string name="challenge_math">Math</string>
+    <string name="challenge_typing">Typing</string>
+    <string name="challenge_memory">Memory</string>
+    <string name="challenge_shake">Shake</string>
+    <string name="wake_up_check_section">Wake-up check</string>
+    <string name="wake_up_check_off">Off</string>
+    <string name="snooze_limit_section">Snooze limit</string>
+    <string name="snooze_limit_unlimited">Unlimited</string>
+    <string name="snooze_limit_choice">%1$d</string>
+    <string name="alarm_behavior_section">Alarm behavior</string>
+    <string name="ring_duration_label">Ring duration</string>
+    <string name="vibration_label">Vibration</string>
+    <string name="vibration_on">On</string>
+    <string name="vibration_off">Off</string>
+    <string name="volume_ramp_label">Volume ramp</string>
+    <string name="alarm_sound_label">Alarm sound</string>
+    <string name="alarm_sound_default">System default</string>
+    <string name="alarm_sound_change">Change</string>
+    <string name="volume_ramp_instant">Instant</string>
+    <string name="seconds_choice">%1$d s</string>
+    <string name="cycle_suggestion">%1$s · %2$d cycles</string>
+    <string name="bedtime_reminder_section">Bedtime reminder</string>
+    <string name="bedtime_reminder_daily_at">Daily at %1$s</string>
+    <string name="bedtime_dialog_title">Bedtime</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="history_section">History</string>
+    <string name="history_rings_week">Rings this week: %1$d</string>
+    <string name="history_snoozes_week">Snoozes this week: %1$d</string>
+    <string name="history_avg_dismiss">Avg time to dismiss: %1$s</string>
+    <string name="history_no_value">—</string>
+    <string name="history_show">Show history</string>
+    <string name="history_hide">Hide history</string>
+    <string name="history_clear">Clear history</string>
+    <string name="history_clear_dialog_title">Clear history?</string>
+    <string name="history_clear_dialog_text">All recorded alarm events will be removed.</string>
+    <string name="history_empty">No events yet</string>
+    <string name="history_event_ring">Rang</string>
+    <string name="history_event_snooze">Snoozed</string>
+    <string name="history_event_dismiss">Dismissed</string>
+    <string name="history_event_auto_snooze">Auto-snoozed</string>
+
+    <string name="time_to_wake_up">Time to wake up!</string>
+    <string name="snooze_button">Snooze (%1$d min)</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="ring_snooze_button">Snooze %1$d min — easier challenge</string>
+    <string name="ring_dismiss_button">I\'m awake — dismiss (harder)</string>
+    <string name="auto_snooze_in">auto-snooze in %1$s</string>
+    <string name="keypad_delete">Delete digit</string>
+    <string name="keypad_submit">Submit answer</string>
+    <string name="solve_to_snooze">Solve to snooze</string>
+    <string name="solve_to_dismiss">Solve to dismiss</string>
+    <string name="answer_label">Answer</string>
+    <string name="wrong_answer">Wrong! New problem. (%1$d failed)</string>
+    <string name="back">Back</string>
+    <string name="submit">Submit</string>
+    <string name="no_snoozes_left">No snoozes left</string>
+    <string name="type_to_snooze">Type the phrase to snooze</string>
+    <string name="type_to_dismiss">Type the phrase to dismiss</string>
+    <string name="phrase_label">Type it exactly</string>
+    <string name="typing_mismatch">Doesn\'t match — check capitals and spacing. (%1$d failed)</string>
+    <string name="memorize_prompt">Memorize the digits</string>
+    <string name="enter_sequence_to_snooze">Enter the digits to snooze</string>
+    <string name="enter_sequence_to_dismiss">Enter the digits to dismiss</string>
+    <string name="sequence_label">Digits</string>
+    <string name="wrong_sequence">Wrong! New sequence. (%1$d failed)</string>
+    <string name="shake_to_snooze">Shake your phone to snooze</string>
+    <string name="shake_to_dismiss">Shake your phone to dismiss</string>
+    <string name="shake_progress">%1$d / %2$d</string>
+
+    <string-array name="typing_phrases_easy">
+        <item>Good morning</item>
+        <item>Rise and shine</item>
+        <item>Wake up now</item>
+        <item>Time to move</item>
+    </string-array>
+    <string-array name="typing_phrases_medium">
+        <item>The early bird catches the worm</item>
+        <item>My coffee is getting cold already</item>
+        <item>Today is a brand new day</item>
+    </string-array>
+    <string-array name="typing_phrases_hard">
+        <item>I am fully awake and ready to start my productive day</item>
+        <item>The morning sun rises slowly over the quiet sleeping city</item>
+        <item>Staying in bed now means regretting the wasted morning later today</item>
+    </string-array>
+
+    <string name="alarm_channel_name">Alarm</string>
+    <string name="alarm_notification_title">Wake up!</string>
+    
+    <string name="alarm_notification_text">Complete the challenge to stop the alarm.</string>
+    <string name="alarm_notification_text_no_sound">Alarm sound unavailable — vibrating only. Complete the challenge to stop.</string>
+
+    <string name="gentle_wake_channel_name">Gentle wake</string>
+    <string name="gentle_wake_notification_title">Gentle wake</string>
+    <string name="gentle_wake_notification_text">Gentle wake — alarm at %1$s</string>
+    <string name="gentle_wake_stop">Stop</string>
+
+    <string name="dismissed_channel_name">Dismissed alarms</string>
+    <string name="alarm_dismissed_title">Alarm dismissed</string>
+    <string name="undo">Undo</string>
+
+    <string name="wake_check_channel_name">Wake-up check</string>
+    <string name="wake_check_title">Still awake?</string>
+    <string name="wake_check_text">Wake-up check: tap I\'M AWAKE within %1$d minutes or the alarm rings again.</string>
+    <string name="im_awake">I\'M AWAKE</string>
+
+    <string name="bedtime_channel_name">Bedtime reminder</string>
+    <string name="bedtime_reminder_title">Time for bed</string>
+    <string name="bedtime_reminder_text">Head to bed now to get your %1$.1f hours of sleep.</string>
+</resources>
