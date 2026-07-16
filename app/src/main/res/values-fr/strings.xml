@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sleep Alarm</string>
+
+    <string name="notifications_denied_warning">Sans notifications, l\'écran de réveil ne peut pas apparaître. Activez-les pour Sleep Alarm dans les Paramètres.</string>
+    <string name="inexact_alarm_warning">Alarme réglée, mais elle peut sonner jusqu\'à 10 minutes en retard. Autorisez les alarmes exactes dans les paramètres pour plus de précision.</string>
+    <string name="full_screen_intent_warning">Autorisez les notifications plein écran pour que l\'alarme puisse réveiller l\'écran.</string>
+    <string name="alarm_ringing">Alarme en cours</string>
+    <string name="open_alarm_screen">Ouvrir l\'écran d\'alarme</string>
+    <string name="alarms_section">Alarmes</string>
+    <string name="delete_alarm">Supprimer l\'alarme</string>
+    <string name="day_letter_monday">L</string>
+    <string name="day_letter_tuesday">M</string>
+    <string name="day_letter_wednesday">M</string>
+    <string name="day_letter_thursday">J</string>
+    <string name="day_letter_friday">V</string>
+    <string name="day_letter_saturday">S</string>
+    <string name="day_letter_sunday">D</string>
+    <string name="when_sleep_question">Quand allez-vous dormir ?</string>
+    <string name="sleep_right_now">Tout de suite</string>
+    <string name="pick_a_time">Choisir une heure</string>
+    <string name="at_time">À %1$s</string>
+    <string name="sleep_duration_question">Combien de temps voulez-vous dormir ?</string>
+    <string name="hours_value">%1$.1f heures</string>
+    <string name="wake_up_preview">Vous vous réveilleriez à</string>
+    <string name="set_alarm">Régler l\'alarme</string>
+    <string name="snooze_length">Durée du rappel</string>
+    <string name="minutes_choice">%1$d min</string>
+    <string name="math_difficulty">Difficulté du défi</string>
+    <string name="difficulty_easy">Facile</string>
+    <string name="difficulty_medium">Moyen</string>
+    <string name="difficulty_hard">Difficile</string>
+    <string name="challenge_type">Type de défi</string>
+    <string name="challenge_math">Calcul</string>
+    <string name="challenge_typing">Saisie</string>
+    <string name="challenge_memory">Mémoire</string>
+    <string name="challenge_shake">Secouer</string>
+    <string name="wake_up_check_section">Vérification de réveil</string>
+    <string name="wake_up_check_off">Désactivée</string>
+    <string name="snooze_limit_section">Limite de rappels</string>
+    <string name="snooze_limit_unlimited">Illimité</string>
+    <string name="snooze_limit_choice">%1$d</string>
+    <string name="alarm_behavior_section">Comportement de l\'alarme</string>
+    <string name="ring_duration_label">Durée de sonnerie</string>
+    <string name="vibration_label">Vibration</string>
+    <string name="vibration_on">Activée</string>
+    <string name="vibration_off">Désactivée</string>
+    <string name="volume_ramp_label">Volume progressif</string>
+    <string name="alarm_sound_label">Sonnerie de l\'alarme</string>
+    <string name="alarm_sound_default">Par défaut du système</string>
+    <string name="alarm_sound_change">Modifier</string>
+    <string name="volume_ramp_instant">Instantané</string>
+    <string name="seconds_choice">%1$d s</string>
+    <string name="cycle_suggestion">%1$s · %2$d cycles</string>
+    <string name="bedtime_reminder_section">Rappel du coucher</string>
+    <string name="bedtime_reminder_daily_at">Chaque jour à %1$s</string>
+    <string name="bedtime_dialog_title">Heure du coucher</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
+
+    <string name="history_section">Historique</string>
+    <string name="history_rings_week">Sonneries cette semaine : %1$d</string>
+    <string name="history_snoozes_week">Rappels cette semaine : %1$d</string>
+    <string name="history_avg_dismiss">Temps moyen pour arrêter : %1$s</string>
+    <string name="history_no_value">—</string>
+    <string name="history_show">Afficher l\'historique</string>
+    <string name="history_hide">Masquer l\'historique</string>
+    <string name="history_clear">Effacer l\'historique</string>
+    <string name="history_clear_dialog_title">Effacer l\'historique ?</string>
+    <string name="history_clear_dialog_text">Tous les événements d\'alarme enregistrés seront supprimés.</string>
+    <string name="history_empty">Aucun événement pour l\'instant</string>
+    <string name="history_event_ring">A sonné</string>
+    <string name="history_event_snooze">Reportée</string>
+    <string name="history_event_dismiss">Arrêtée</string>
+    <string name="history_event_auto_snooze">Reportée automatiquement</string>
+
+    <string name="time_to_wake_up">C\'est l\'heure de se réveiller !</string>
+    <string name="snooze_button">Rappel (%1$d min)</string>
+    <string name="dismiss">Arrêter</string>
+    <string name="solve_to_snooze">Résolvez pour reporter</string>
+    <string name="solve_to_dismiss">Résolvez pour arrêter</string>
+    <string name="answer_label">Réponse</string>
+    <string name="wrong_answer">Faux ! Nouveau problème. (%1$d échecs)</string>
+    <string name="back">Retour</string>
+    <string name="submit">Valider</string>
+    <string name="no_snoozes_left">Plus aucun rappel disponible</string>
+    <string name="type_to_snooze">Tapez la phrase pour reporter</string>
+    <string name="type_to_dismiss">Tapez la phrase pour arrêter</string>
+    <string name="phrase_label">Tapez-la exactement</string>
+    <string name="typing_mismatch">Ne correspond pas — vérifiez les majuscules et les espaces. (%1$d échecs)</string>
+    <string name="memorize_prompt">Mémorisez les chiffres</string>
+    <string name="enter_sequence_to_snooze">Saisissez les chiffres pour reporter</string>
+    <string name="enter_sequence_to_dismiss">Saisissez les chiffres pour arrêter</string>
+    <string name="sequence_label">Chiffres</string>
+    <string name="wrong_sequence">Faux ! Nouvelle séquence. (%1$d échecs)</string>
+    <string name="shake_to_snooze">Secouez votre téléphone pour reporter</string>
+    <string name="shake_to_dismiss">Secouez votre téléphone pour arrêter</string>
+    <string name="shake_progress">%1$d / %2$d</string>
+
+    <string-array name="typing_phrases_easy">
+        <item>Bonjour à tous</item>
+        <item>Debout là-dedans</item>
+        <item>Réveille-toi vite</item>
+        <item>Il faut bouger</item>
+    </string-array>
+    <string-array name="typing_phrases_medium">
+        <item>Le monde appartient à ceux qui se lèvent tôt</item>
+        <item>Mon café est déjà en train de refroidir</item>
+        <item>Aujourd\'hui est un tout nouveau jour</item>
+    </string-array>
+    <string-array name="typing_phrases_hard">
+        <item>Je suis parfaitement réveillé et prêt à commencer ma journée productive</item>
+        <item>Le soleil du matin se lève lentement sur la ville endormie et silencieuse</item>
+        <item>Rester au lit maintenant signifie regretter plus tard cette matinée gâchée</item>
+    </string-array>
+
+    <string name="alarm_channel_name">Alarme</string>
+    <string name="alarm_notification_title">Réveillez-vous !</string>
+    <string name="alarm_notification_text">Terminez le défi pour arrêter l\'alarme.</string>
+    <string name="alarm_notification_text_no_sound">Sonnerie indisponible — vibration uniquement. Terminez le défi pour l\'arrêter.</string>
+
+    <string name="wake_check_channel_name">Vérification de réveil</string>
+    <string name="wake_check_title">Toujours réveillé ?</string>
+    <string name="wake_check_text">Vérification de réveil : touchez JE SUIS RÉVEILLÉ dans les %1$d minutes, sinon l\'alarme sonnera à nouveau.</string>
+    <string name="im_awake">JE SUIS RÉVEILLÉ</string>
+
+    <string name="bedtime_channel_name">Rappel du coucher</string>
+    <string name="bedtime_reminder_title">Il est l\'heure de se coucher</string>
+    <string name="bedtime_reminder_text">Couchez-vous maintenant pour dormir vos %1$.1f heures.</string>
+
+    <string name="option_default">Par défaut</string>
+    <string name="challenge_steps">Pas</string>
+    <string name="alarm_at_time">Alarme à une heure précise…</string>
+    <string name="alarm_time_dialog_title">Heure de l\'alarme</string>
+    <string name="alarm_set_toast">Alarme réglée pour %1$s — sonne dans %2$s</string>
+    <string name="rings_in">Sonne dans %1$s</string>
+    <string name="next_occurrence">Prochaine : %1$s</string>
+    <string name="skip_next">Ignorer la prochaine</string>
+    <string name="undo_skip">Annuler l\'omission</string>
+    <string name="label_dialog_title">Nom de l\'alarme</string>
+    <string name="label_hint">ex. Salle de sport</string>
+    <string name="edit_label">Modifier le nom</string>
+    <string name="no_label">Sans nom</string>
+    <string name="show_alarm_options">Afficher les options de l\'alarme</string>
+    <string name="hide_alarm_options">Masquer les options de l\'alarme</string>
+    <string name="history_wake_consistency">Régularité du réveil : ±%1$s</string>
+    <string name="history_no_snooze_streak">Série sans rappel : %1$d</string>
+    <string name="battery_card_title">Gardez des alarmes fiables</string>
+    <string name="battery_card_text">Le gestionnaire de batterie de votre téléphone peut couper les alarmes. Exemptez Sleep Alarm de l\'optimisation de la batterie pour que chaque alarme sonne.</string>
+    <string name="battery_allow">Autoriser</string>
+    <string name="battery_dismiss">Pas maintenant</string>
+    <string name="profile_weekday">Semaine</string>
+    <string name="profile_weekend">Week-end</string>
+    <string name="backup_section">Sauvegarde</string>
+    <string name="export_backup">Exporter</string>
+    <string name="import_backup">Importer</string>
+    <string name="backup_saved">Sauvegarde enregistrée</string>
+    <string name="backup_save_failed">Impossible d\'enregistrer la sauvegarde</string>
+    <string name="backup_restored">Sauvegarde restaurée</string>
+    <string name="backup_restore_failed">Impossible de lire le fichier de sauvegarde</string>
+
+    <string name="nav_sleep">Dormir</string>
+    <string name="start_sleeping">Commencer à dormir — réveil à %1$s</string>
+    <string name="alarm_set_for">Alarme réglée pour</string>
+    <string name="armed_detail">%1$s de sommeil · %2$d cycles · +%3$d min pour s\'endormir</string>
+    <string name="cancel_alarm">Annuler l\'alarme</string>
+    <string name="buffer_to_fall_asleep">+%1$d min pour s\'endormir</string>
+    <string name="wake_at">réveil à %1$s</string>
+    <string name="cycle_chip">%1$d cycles · %2$s</string>
+    <string name="difficulty_sample_easy">ex. reporter 4 + 17 · arrêter 9 × 3 + 21</string>
+    <string name="difficulty_sample_medium">ex. reporter 34 + 58 · arrêter 18 × 6 + 42</string>
+    <string name="difficulty_sample_hard">ex. reporter 127 + 85 · arrêter 46 × 9 + 173</string>
+    <string name="stat_avg_snoozes">rappels moy.</string>
+    <string name="stat_first_try">debout du 1er coup</string>
+    <string name="history_day_today">Aujourd\'hui</string>
+    <string name="history_detail_first_try">arrêtée du premier coup</string>
+    <string name="history_detail_one_snooze">1 rappel, puis arrêtée</string>
+    <string name="history_detail_snoozes">%1$d rappels, puis arrêtée</string>
+    <string name="history_detail_snoozes_auto">%1$d rappels (%2$d auto), puis arrêtée</string>
+    <string name="badge_clean">NET</string>
+    <string name="badge_auto">AUTO</string>
+    <string name="badge_snoozes">×%1$d</string>
+
+    <string name="walk_to_snooze">Marchez pour reporter</string>
+    <string name="walk_to_dismiss">Marchez pour arrêter</string>
+    <string name="steps_progress">%1$d / %2$d pas</string>
+
+    <string name="widget_description">Alarme en un geste après votre durée de sommeil habituelle</string>
+    <string name="widget_next_alarm">Prochaine : %1$s</string>
+    <string name="widget_next_alarm_labeled">Prochaine : %1$s · %2$s</string>
+    <string name="widget_no_alarm">Aucune alarme</string>
+    <string name="widget_sleep_now">Dormir maintenant (%1$.1f h)</string>
+    <string name="widget_sleep_now_placeholder">Dormir maintenant</string>
+    <string name="quick_alarm_set">Alarme réglée pour %1$s</string>
+    <string name="tile_label">Alarme rapide</string>
+    <string name="tile_no_alarm">Aucune alarme</string>
+</resources>

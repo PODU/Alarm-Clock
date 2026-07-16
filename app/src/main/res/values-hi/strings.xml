@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sleep Alarm</string>
+
+    <string name="notifications_denied_warning">सूचनाओं के बिना जगाने वाली स्क्रीन नहीं दिख सकती। सेटिंग्स में Sleep Alarm के लिए सूचनाएँ चालू करें।</string>
+    <string name="inexact_alarm_warning">अलार्म सेट हो गया, पर यह 10 मिनट तक देर से बज सकता है। सटीक समय के लिए सेटिंग्स में सटीक अलार्म की अनुमति दें।</string>
+    <string name="full_screen_intent_warning">फ़ुल-स्क्रीन सूचनाओं की अनुमति दें ताकि अलार्म स्क्रीन जगा सके।</string>
+    <string name="alarm_ringing">अलार्म बज रहा है</string>
+    <string name="open_alarm_screen">अलार्म स्क्रीन खोलें</string>
+    <string name="alarms_section">अलार्म</string>
+    <string name="delete_alarm">अलार्म हटाएँ</string>
+    <string name="day_letter_monday">सो</string>
+    <string name="day_letter_tuesday">मं</string>
+    <string name="day_letter_wednesday">बु</string>
+    <string name="day_letter_thursday">गु</string>
+    <string name="day_letter_friday">शु</string>
+    <string name="day_letter_saturday">श</string>
+    <string name="day_letter_sunday">र</string>
+    <string name="when_sleep_question">आप कब सोने जा रहे हैं?</string>
+    <string name="sleep_right_now">अभी</string>
+    <string name="pick_a_time">समय चुनें</string>
+    <string name="at_time">%1$s बजे</string>
+    <string name="sleep_duration_question">आप कितनी देर सोना चाहते हैं?</string>
+    <string name="hours_value">%1$.1f घंटे</string>
+    <string name="wake_up_preview">आप इस समय जागेंगे</string>
+    <string name="set_alarm">अलार्म सेट करें</string>
+    <string name="snooze_length">स्नूज़ अवधि</string>
+    <string name="minutes_choice">%1$d मिनट</string>
+    <string name="math_difficulty">चुनौती की कठिनाई</string>
+    <string name="difficulty_easy">आसान</string>
+    <string name="difficulty_medium">मध्यम</string>
+    <string name="difficulty_hard">कठिन</string>
+    <string name="challenge_type">चुनौती का प्रकार</string>
+    <string name="challenge_math">गणित</string>
+    <string name="challenge_typing">टाइपिंग</string>
+    <string name="challenge_memory">याददाश्त</string>
+    <string name="challenge_shake">हिलाना</string>
+    <string name="wake_up_check_section">जागने की जाँच</string>
+    <string name="wake_up_check_off">बंद</string>
+    <string name="snooze_limit_section">स्नूज़ सीमा</string>
+    <string name="snooze_limit_unlimited">असीमित</string>
+    <string name="snooze_limit_choice">%1$d</string>
+    <string name="alarm_behavior_section">अलार्म का व्यवहार</string>
+    <string name="ring_duration_label">बजने की अवधि</string>
+    <string name="vibration_label">कंपन</string>
+    <string name="vibration_on">चालू</string>
+    <string name="vibration_off">बंद</string>
+    <string name="volume_ramp_label">धीरे-धीरे बढ़ती आवाज़</string>
+    <string name="alarm_sound_label">अलार्म की ध्वनि</string>
+    <string name="alarm_sound_default">सिस्टम डिफ़ॉल्ट</string>
+    <string name="alarm_sound_change">बदलें</string>
+    <string name="volume_ramp_instant">तुरंत</string>
+    <string name="seconds_choice">%1$d से.</string>
+    <string name="cycle_suggestion">%1$s · %2$d चक्र</string>
+    <string name="bedtime_reminder_section">सोने का रिमाइंडर</string>
+    <string name="bedtime_reminder_daily_at">रोज़ %1$s बजे</string>
+    <string name="bedtime_dialog_title">सोने का समय</string>
+    <string name="ok">ठीक है</string>
+    <string name="cancel">रद्द करें</string>
+
+    <string name="history_section">इतिहास</string>
+    <string name="history_rings_week">इस सप्ताह बजे अलार्म: %1$d</string>
+    <string name="history_snoozes_week">इस सप्ताह स्नूज़: %1$d</string>
+    <string name="history_avg_dismiss">बंद करने का औसत समय: %1$s</string>
+    <string name="history_no_value">—</string>
+    <string name="history_show">इतिहास दिखाएँ</string>
+    <string name="history_hide">इतिहास छिपाएँ</string>
+    <string name="history_clear">इतिहास साफ़ करें</string>
+    <string name="history_clear_dialog_title">इतिहास साफ़ करें?</string>
+    <string name="history_clear_dialog_text">सभी दर्ज अलार्म घटनाएँ हटा दी जाएँगी।</string>
+    <string name="history_empty">अभी कोई घटना नहीं</string>
+    <string name="history_event_ring">बजा</string>
+    <string name="history_event_snooze">स्नूज़ किया</string>
+    <string name="history_event_dismiss">बंद किया</string>
+    <string name="history_event_auto_snooze">अपने आप स्नूज़ हुआ</string>
+
+    <string name="time_to_wake_up">जागने का समय हो गया!</string>
+    <string name="snooze_button">स्नूज़ (%1$d मिनट)</string>
+    <string name="dismiss">बंद करें</string>
+    <string name="solve_to_snooze">स्नूज़ के लिए हल करें</string>
+    <string name="solve_to_dismiss">बंद करने के लिए हल करें</string>
+    <string name="answer_label">उत्तर</string>
+    <string name="wrong_answer">गलत! नया सवाल। (%1$d असफल)</string>
+    <string name="back">वापस</string>
+    <string name="submit">जमा करें</string>
+    <string name="no_snoozes_left">कोई स्नूज़ बाकी नहीं</string>
+    <string name="type_to_snooze">स्नूज़ के लिए वाक्य टाइप करें</string>
+    <string name="type_to_dismiss">बंद करने के लिए वाक्य टाइप करें</string>
+    <string name="phrase_label">बिल्कुल वैसा ही टाइप करें</string>
+    <string name="typing_mismatch">मेल नहीं खाता — बड़े अक्षर और खाली जगह जाँचें। (%1$d असफल)</string>
+    <string name="memorize_prompt">अंक याद करें</string>
+    <string name="enter_sequence_to_snooze">स्नूज़ के लिए अंक दर्ज करें</string>
+    <string name="enter_sequence_to_dismiss">बंद करने के लिए अंक दर्ज करें</string>
+    <string name="sequence_label">अंक</string>
+    <string name="wrong_sequence">गलत! नया क्रम। (%1$d असफल)</string>
+    <string name="shake_to_snooze">स्नूज़ के लिए फ़ोन हिलाएँ</string>
+    <string name="shake_to_dismiss">बंद करने के लिए फ़ोन हिलाएँ</string>
+    <string name="shake_progress">%1$d / %2$d</string>
+
+    <string-array name="typing_phrases_easy">
+        <item>शुभ प्रभात</item>
+        <item>उठो और चमको</item>
+        <item>अब जाग जाओ</item>
+        <item>चलने का समय</item>
+    </string-array>
+    <string-array name="typing_phrases_medium">
+        <item>जल्दी उठने वाले को ही फल मिलता है</item>
+        <item>मेरी कॉफ़ी पहले से ठंडी हो रही है</item>
+        <item>आज एक बिल्कुल नया दिन है</item>
+    </string-array>
+    <string-array name="typing_phrases_hard">
+        <item>मैं पूरी तरह जाग चुका हूँ और अपना उत्पादक दिन शुरू करने के लिए तैयार हूँ</item>
+        <item>सुबह का सूरज सोते हुए शांत शहर के ऊपर धीरे-धीरे उग रहा है</item>
+        <item>अभी बिस्तर में रहने का मतलब है बाद में बर्बाद सुबह पर पछताना</item>
+    </string-array>
+
+    <string name="alarm_channel_name">अलार्म</string>
+    <string name="alarm_notification_title">जागिए!</string>
+    <string name="alarm_notification_text">अलार्म रोकने के लिए चुनौती पूरी करें।</string>
+    <string name="alarm_notification_text_no_sound">अलार्म ध्वनि उपलब्ध नहीं — केवल कंपन। रोकने के लिए चुनौती पूरी करें।</string>
+
+    <string name="wake_check_channel_name">जागने की जाँच</string>
+    <string name="wake_check_title">अब भी जागे हैं?</string>
+    <string name="wake_check_text">जागने की जाँच: %1$d मिनट के भीतर मैं जाग गया पर टैप करें, वरना अलार्म फिर बजेगा।</string>
+    <string name="im_awake">मैं जाग गया</string>
+
+    <string name="bedtime_channel_name">सोने का रिमाइंडर</string>
+    <string name="bedtime_reminder_title">सोने का समय</string>
+    <string name="bedtime_reminder_text">अपने %1$.1f घंटे की नींद पाने के लिए अभी सो जाएँ।</string>
+
+    <string name="option_default">डिफ़ॉल्ट</string>
+    <string name="challenge_steps">कदम</string>
+    <string name="alarm_at_time">किसी समय पर अलार्म…</string>
+    <string name="alarm_time_dialog_title">अलार्म का समय</string>
+    <string name="alarm_set_toast">अलार्म %1$s के लिए सेट — %2$s में बजेगा</string>
+    <string name="rings_in">%1$s में बजेगा</string>
+    <string name="next_occurrence">अगला: %1$s</string>
+    <string name="skip_next">अगला छोड़ें</string>
+    <string name="undo_skip">छोड़ना रद्द करें</string>
+    <string name="label_dialog_title">अलार्म का नाम</string>
+    <string name="label_hint">जैसे जिम</string>
+    <string name="edit_label">नाम बदलें</string>
+    <string name="no_label">कोई नाम नहीं</string>
+    <string name="show_alarm_options">अलार्म विकल्प दिखाएँ</string>
+    <string name="hide_alarm_options">अलार्म विकल्प छिपाएँ</string>
+    <string name="history_wake_consistency">जागने के समय की नियमितता: ±%1$s</string>
+    <string name="history_no_snooze_streak">बिना स्नूज़ की लगातार गिनती: %1$d</string>
+    <string name="battery_card_title">अलार्म भरोसेमंद रखें</string>
+    <string name="battery_card_text">आपके फ़ोन का बैटरी मैनेजर अलार्म बंद कर सकता है। हर अलार्म बजे, इसके लिए Sleep Alarm को बैटरी ऑप्टिमाइज़ेशन से छूट दें।</string>
+    <string name="battery_allow">अनुमति दें</string>
+    <string name="battery_dismiss">अभी नहीं</string>
+    <string name="profile_weekday">कार्यदिवस</string>
+    <string name="profile_weekend">सप्ताहांत</string>
+    <string name="backup_section">बैकअप</string>
+    <string name="export_backup">निर्यात करें</string>
+    <string name="import_backup">आयात करें</string>
+    <string name="backup_saved">बैकअप सहेजा गया</string>
+    <string name="backup_save_failed">बैकअप सहेजा नहीं जा सका</string>
+    <string name="backup_restored">बैकअप बहाल हुआ</string>
+    <string name="backup_restore_failed">बैकअप फ़ाइल पढ़ी नहीं जा सकी</string>
+
+    <string name="nav_sleep">नींद</string>
+    <string name="start_sleeping">सोना शुरू करें — %1$s पर जागें</string>
+    <string name="alarm_set_for">अलार्म सेट है</string>
+    <string name="armed_detail">%1$s की नींद · %2$d चक्र · सोने के लिए +%3$d मिनट</string>
+    <string name="cancel_alarm">अलार्म रद्द करें</string>
+    <string name="buffer_to_fall_asleep">सोने के लिए +%1$d मिनट</string>
+    <string name="wake_at">%1$s पर जागें</string>
+    <string name="cycle_chip">%1$d चक्र · %2$s</string>
+    <string name="difficulty_sample_easy">जैसे स्नूज़ 4 + 17 · बंद 9 × 3 + 21</string>
+    <string name="difficulty_sample_medium">जैसे स्नूज़ 34 + 58 · बंद 18 × 6 + 42</string>
+    <string name="difficulty_sample_hard">जैसे स्नूज़ 127 + 85 · बंद 46 × 9 + 173</string>
+    <string name="stat_avg_snoozes">औसत स्नूज़</string>
+    <string name="stat_first_try">पहली बार में उठे</string>
+    <string name="history_day_today">आज</string>
+    <string name="history_detail_first_try">पहली बार में बंद किया</string>
+    <string name="history_detail_one_snooze">1 स्नूज़, फिर बंद</string>
+    <string name="history_detail_snoozes">%1$d स्नूज़, फिर बंद</string>
+    <string name="history_detail_snoozes_auto">%1$d स्नूज़ (%2$d ऑटो), फिर बंद</string>
+    <string name="badge_clean">क्लीन</string>
+    <string name="badge_auto">ऑटो</string>
+    <string name="badge_snoozes">×%1$d</string>
+
+    <string name="walk_to_snooze">स्नूज़ के लिए चलें</string>
+    <string name="walk_to_dismiss">बंद करने के लिए चलें</string>
+    <string name="steps_progress">%1$d / %2$d कदम</string>
+
+    <string name="widget_description">आपकी सामान्य नींद अवधि के बाद एक टैप में अलार्म</string>
+    <string name="widget_next_alarm">अगला: %1$s</string>
+    <string name="widget_next_alarm_labeled">अगला: %1$s · %2$s</string>
+    <string name="widget_no_alarm">कोई अलार्म नहीं</string>
+    <string name="widget_sleep_now">अभी सोएँ (%1$.1f घं.)</string>
+    <string name="widget_sleep_now_placeholder">अभी सोएँ</string>
+    <string name="quick_alarm_set">अलार्म %1$s के लिए सेट</string>
+    <string name="tile_label">त्वरित अलार्म</string>
+    <string name="tile_no_alarm">कोई अलार्म नहीं</string>
+</resources>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sleep Alarm</string>
+
+    <string name="notifications_denied_warning">Ohne Benachrichtigungen kann der Weckbildschirm nicht erscheinen. Aktiviere sie für Sleep Alarm in den Einstellungen.</string>
+    <string name="inexact_alarm_warning">Wecker gestellt, er kann aber bis zu 10 Minuten zu spät klingeln. Erlaube exakte Wecker in den Einstellungen für präzises Timing.</string>
+    <string name="full_screen_intent_warning">Erlaube Vollbild-Benachrichtigungen, damit der Wecker den Bildschirm aufwecken kann.</string>
+    <string name="alarm_ringing">Wecker klingelt</string>
+    <string name="open_alarm_screen">Weckbildschirm öffnen</string>
+    <string name="alarms_section">Wecker</string>
+    <string name="delete_alarm">Wecker löschen</string>
+    <string name="day_letter_monday">M</string>
+    <string name="day_letter_tuesday">D</string>
+    <string name="day_letter_wednesday">M</string>
+    <string name="day_letter_thursday">D</string>
+    <string name="day_letter_friday">F</string>
+    <string name="day_letter_saturday">S</string>
+    <string name="day_letter_sunday">S</string>
+    <string name="when_sleep_question">Wann gehst du schlafen?</string>
+    <string name="sleep_right_now">Jetzt gleich</string>
+    <string name="pick_a_time">Uhrzeit wählen</string>
+    <string name="at_time">Um %1$s</string>
+    <string name="sleep_duration_question">Wie lange möchtest du schlafen?</string>
+    <string name="hours_value">%1$.1f Stunden</string>
+    <string name="wake_up_preview">Du würdest aufwachen um</string>
+    <string name="set_alarm">Wecker stellen</string>
+    <string name="snooze_length">Schlummerdauer</string>
+    <string name="minutes_choice">%1$d Min.</string>
+    <string name="math_difficulty">Schwierigkeit der Aufgabe</string>
+    <string name="difficulty_easy">Leicht</string>
+    <string name="difficulty_medium">Mittel</string>
+    <string name="difficulty_hard">Schwer</string>
+    <string name="challenge_type">Art der Aufgabe</string>
+    <string name="challenge_math">Rechnen</string>
+    <string name="challenge_typing">Tippen</string>
+    <string name="challenge_memory">Merken</string>
+    <string name="challenge_shake">Schütteln</string>
+    <string name="wake_up_check_section">Wachheitskontrolle</string>
+    <string name="wake_up_check_off">Aus</string>
+    <string name="snooze_limit_section">Schlummerlimit</string>
+    <string name="snooze_limit_unlimited">Unbegrenzt</string>
+    <string name="snooze_limit_choice">%1$d</string>
+    <string name="alarm_behavior_section">Weckerverhalten</string>
+    <string name="ring_duration_label">Klingeldauer</string>
+    <string name="vibration_label">Vibration</string>
+    <string name="vibration_on">An</string>
+    <string name="vibration_off">Aus</string>
+    <string name="volume_ramp_label">Ansteigende Lautstärke</string>
+    <string name="alarm_sound_label">Weckton</string>
+    <string name="alarm_sound_default">Systemstandard</string>
+    <string name="alarm_sound_change">Ändern</string>
+    <string name="volume_ramp_instant">Sofort</string>
+    <string name="seconds_choice">%1$d s</string>
+    <string name="cycle_suggestion">%1$s · %2$d Zyklen</string>
+    <string name="bedtime_reminder_section">Schlafenszeit-Erinnerung</string>
+    <string name="bedtime_reminder_daily_at">Täglich um %1$s</string>
+    <string name="bedtime_dialog_title">Schlafenszeit</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Abbrechen</string>
+
+    <string name="history_section">Verlauf</string>
+    <string name="history_rings_week">Wecker diese Woche: %1$d</string>
+    <string name="history_snoozes_week">Schlummer diese Woche: %1$d</string>
+    <string name="history_avg_dismiss">Durchschnittliche Zeit bis zum Ausschalten: %1$s</string>
+    <string name="history_no_value">—</string>
+    <string name="history_show">Verlauf anzeigen</string>
+    <string name="history_hide">Verlauf ausblenden</string>
+    <string name="history_clear">Verlauf löschen</string>
+    <string name="history_clear_dialog_title">Verlauf löschen?</string>
+    <string name="history_clear_dialog_text">Alle aufgezeichneten Wecker-Ereignisse werden entfernt.</string>
+    <string name="history_empty">Noch keine Ereignisse</string>
+    <string name="history_event_ring">Geklingelt</string>
+    <string name="history_event_snooze">Geschlummert</string>
+    <string name="history_event_dismiss">Ausgeschaltet</string>
+    <string name="history_event_auto_snooze">Automatisch geschlummert</string>
+
+    <string name="time_to_wake_up">Zeit zum Aufwachen!</string>
+    <string name="snooze_button">Schlummern (%1$d Min.)</string>
+    <string name="dismiss">Ausschalten</string>
+    <string name="solve_to_snooze">Löse die Aufgabe zum Schlummern</string>
+    <string name="solve_to_dismiss">Löse die Aufgabe zum Ausschalten</string>
+    <string name="answer_label">Antwort</string>
+    <string name="wrong_answer">Falsch! Neue Aufgabe. (%1$d Fehlversuche)</string>
+    <string name="back">Zurück</string>
+    <string name="submit">Bestätigen</string>
+    <string name="no_snoozes_left">Kein Schlummern mehr übrig</string>
+    <string name="type_to_snooze">Tippe den Satz zum Schlummern</string>
+    <string name="type_to_dismiss">Tippe den Satz zum Ausschalten</string>
+    <string name="phrase_label">Tippe ihn genau ab</string>
+    <string name="typing_mismatch">Stimmt nicht überein — prüfe Großschreibung und Leerzeichen. (%1$d Fehlversuche)</string>
+    <string name="memorize_prompt">Merke dir die Ziffern</string>
+    <string name="enter_sequence_to_snooze">Gib die Ziffern zum Schlummern ein</string>
+    <string name="enter_sequence_to_dismiss">Gib die Ziffern zum Ausschalten ein</string>
+    <string name="sequence_label">Ziffern</string>
+    <string name="wrong_sequence">Falsch! Neue Folge. (%1$d Fehlversuche)</string>
+    <string name="shake_to_snooze">Schüttle dein Handy zum Schlummern</string>
+    <string name="shake_to_dismiss">Schüttle dein Handy zum Ausschalten</string>
+    <string name="shake_progress">%1$d / %2$d</string>
+
+    <string-array name="typing_phrases_easy">
+        <item>Guten Morgen</item>
+        <item>Aufstehen und strahlen</item>
+        <item>Wach jetzt auf</item>
+        <item>Zeit aufzustehen</item>
+    </string-array>
+    <string-array name="typing_phrases_medium">
+        <item>Der frühe Vogel fängt den Wurm</item>
+        <item>Mein Kaffee wird schon wieder kalt</item>
+        <item>Heute ist ein ganz neuer Tag</item>
+    </string-array>
+    <string-array name="typing_phrases_hard">
+        <item>Ich bin völlig wach und bereit für meinen produktiven Tag</item>
+        <item>Die Morgensonne steigt langsam über der stillen schlafenden Stadt auf</item>
+        <item>Jetzt im Bett zu bleiben heißt den verschwendeten Morgen später zu bereuen</item>
+    </string-array>
+
+    <string name="alarm_channel_name">Wecker</string>
+    <string name="alarm_notification_title">Aufwachen!</string>
+    <string name="alarm_notification_text">Löse die Aufgabe, um den Wecker zu stoppen.</string>
+    <string name="alarm_notification_text_no_sound">Weckton nicht verfügbar — nur Vibration. Löse die Aufgabe, um ihn zu stoppen.</string>
+
+    <string name="wake_check_channel_name">Wachheitskontrolle</string>
+    <string name="wake_check_title">Noch wach?</string>
+    <string name="wake_check_text">Wachheitskontrolle: Tippe innerhalb von %1$d Minuten auf ICH BIN WACH, sonst klingelt der Wecker erneut.</string>
+    <string name="im_awake">ICH BIN WACH</string>
+
+    <string name="bedtime_channel_name">Schlafenszeit-Erinnerung</string>
+    <string name="bedtime_reminder_title">Zeit fürs Bett</string>
+    <string name="bedtime_reminder_text">Geh jetzt ins Bett, um deine %1$.1f Stunden Schlaf zu bekommen.</string>
+
+    <string name="option_default">Standard</string>
+    <string name="challenge_steps">Schritte</string>
+    <string name="alarm_at_time">Wecker für eine Uhrzeit…</string>
+    <string name="alarm_time_dialog_title">Weckzeit</string>
+    <string name="alarm_set_toast">Wecker gestellt auf %1$s — klingelt in %2$s</string>
+    <string name="rings_in">Klingelt in %1$s</string>
+    <string name="next_occurrence">Nächster: %1$s</string>
+    <string name="skip_next">Nächsten überspringen</string>
+    <string name="undo_skip">Überspringen rückgängig</string>
+    <string name="label_dialog_title">Wecker-Bezeichnung</string>
+    <string name="label_hint">z. B. Fitnessstudio</string>
+    <string name="edit_label">Bezeichnung bearbeiten</string>
+    <string name="no_label">Keine Bezeichnung</string>
+    <string name="show_alarm_options">Weckeroptionen anzeigen</string>
+    <string name="hide_alarm_options">Weckeroptionen ausblenden</string>
+    <string name="history_wake_consistency">Regelmäßigkeit beim Aufwachen: ±%1$s</string>
+    <string name="history_no_snooze_streak">Serie ohne Schlummern: %1$d</string>
+    <string name="battery_card_title">Wecker zuverlässig halten</string>
+    <string name="battery_card_text">Der Akku-Manager deines Handys kann Wecker stummschalten. Nimm Sleep Alarm von der Akku-Optimierung aus, damit jeder Wecker klingelt.</string>
+    <string name="battery_allow">Erlauben</string>
+    <string name="battery_dismiss">Jetzt nicht</string>
+    <string name="profile_weekday">Wochentag</string>
+    <string name="profile_weekend">Wochenende</string>
+    <string name="backup_section">Sicherung</string>
+    <string name="export_backup">Exportieren</string>
+    <string name="import_backup">Importieren</string>
+    <string name="backup_saved">Sicherung gespeichert</string>
+    <string name="backup_save_failed">Sicherung konnte nicht gespeichert werden</string>
+    <string name="backup_restored">Sicherung wiederhergestellt</string>
+    <string name="backup_restore_failed">Sicherungsdatei konnte nicht gelesen werden</string>
+
+    <string name="nav_sleep">Schlafen</string>
+    <string name="start_sleeping">Schlafen gehen — wecken um %1$s</string>
+    <string name="alarm_set_for">Wecker gestellt für</string>
+    <string name="armed_detail">%1$s Schlaf · %2$d Zyklen · +%3$d Min. zum Einschlafen</string>
+    <string name="cancel_alarm">Wecker abbrechen</string>
+    <string name="buffer_to_fall_asleep">+%1$d Min. zum Einschlafen</string>
+    <string name="wake_at">wecken um %1$s</string>
+    <string name="cycle_chip">%1$d Zyklen · %2$s</string>
+    <string name="difficulty_sample_easy">z. B. Schlummern 4 + 17 · Beenden 9 × 3 + 21</string>
+    <string name="difficulty_sample_medium">z. B. Schlummern 34 + 58 · Beenden 18 × 6 + 42</string>
+    <string name="difficulty_sample_hard">z. B. Schlummern 127 + 85 · Beenden 46 × 9 + 173</string>
+    <string name="stat_avg_snoozes">Ø Schlummern</string>
+    <string name="stat_first_try">sofort wach</string>
+    <string name="history_day_today">Heute</string>
+    <string name="history_detail_first_try">beim ersten Mal aufgestanden</string>
+    <string name="history_detail_one_snooze">1× geschlummert, dann aufgestanden</string>
+    <string name="history_detail_snoozes">%1$d× geschlummert, dann aufgestanden</string>
+    <string name="history_detail_snoozes_auto">%1$d× geschlummert (%2$d auto), dann aufgestanden</string>
+    <string name="badge_clean">SAUBER</string>
+    <string name="badge_auto">AUTO</string>
+    <string name="badge_snoozes">×%1$d</string>
+
+    <string name="walk_to_snooze">Geh ein paar Schritte zum Schlummern</string>
+    <string name="walk_to_dismiss">Geh ein paar Schritte zum Ausschalten</string>
+    <string name="steps_progress">%1$d / %2$d Schritte</string>
+
+    <string name="widget_description">Wecker mit einem Tipp nach deiner üblichen Schlafdauer</string>
+    <string name="widget_next_alarm">Nächster: %1$s</string>
+    <string name="widget_next_alarm_labeled">Nächster: %1$s · %2$s</string>
+    <string name="widget_no_alarm">Kein Wecker</string>
+    <string name="widget_sleep_now">Jetzt schlafen (%1$.1f h)</string>
+    <string name="widget_sleep_now_placeholder">Jetzt schlafen</string>
+    <string name="quick_alarm_set">Wecker gestellt auf %1$s</string>
+    <string name="tile_label">Schnellwecker</string>
+    <string name="tile_no_alarm">Kein Wecker</string>
+</resources>
