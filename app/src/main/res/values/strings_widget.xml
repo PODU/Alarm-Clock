@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="widget_description">One-tap alarm after your usual sleep duration</string>
+    <string name="widget_next_alarm">Next: %1$s</string>
+    
+    <string name="widget_next_alarm_labeled">Next: %1$s · %2$s</string>
+    <string name="widget_no_alarm">No alarm</string>
+    <string name="widget_sleep_now">Sleep now (%1$.1fh)</string>
+    
+    <string name="widget_sleep_now_placeholder">Sleep now</string>
+    <string name="quick_alarm_set">Alarm set for %1$s</string>
+    <string name="tile_label">Quick alarm</string>
+    <string name="tile_no_alarm">No alarm</string>
+</resources>
