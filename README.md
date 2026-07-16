@@ -31,9 +31,9 @@
     <br />
     <a href="docs/SETUP.md">Setup Guide</a>
     &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug">Report Bug</a>
+    <a href="https://github.com/PODU/Alarm-Clock/issues/new?labels=bug">Report Bug</a>
     &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement">Request Feature</a>
+    <a href="https://github.com/PODU/Alarm-Clock/issues/new?labels=enhancement">Request Feature</a>
   </p>
 </div>
 
@@ -129,7 +129,7 @@ Android Studio (Ladybug or newer) is optional but bundles all of the above.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/PODU/Alarm-Clock.git
    ```
 2. Open the project folder in Android Studio and let Gradle sync (it will offer to install missing SDK pieces), **or** build from the command line:
    ```sh
@@ -214,7 +214,7 @@ Suites cover wake-time arithmetic (including DST transitions), math-problem gene
 - [ ] Instrumented UI tests
 - [ ] Signed release build / store distribution
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/PODU/Alarm-Clock/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -252,7 +252,7 @@ No license file is currently included in this repository. All rights reserved un
 
 Aditya Poduval - podu2997@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/PODU/Alarm-Clock](https://github.com/PODU/Alarm-Clock)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -272,14 +272,14 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
+[contributors-shield]: https://img.shields.io/github/contributors/PODU/Alarm-Clock.svg?style=for-the-badge
+[contributors-url]: https://github.com/PODU/Alarm-Clock/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/PODU/Alarm-Clock.svg?style=for-the-badge
+[forks-url]: https://github.com/PODU/Alarm-Clock/network/members
+[stars-shield]: https://img.shields.io/github/stars/PODU/Alarm-Clock.svg?style=for-the-badge
+[stars-url]: https://github.com/PODU/Alarm-Clock/stargazers
+[issues-shield]: https://img.shields.io/github/issues/PODU/Alarm-Clock.svg?style=for-the-badge
+[issues-url]: https://github.com/PODU/Alarm-Clock/issues
 [Kotlin-badge]: https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white
 [Kotlin-url]: https://kotlinlang.org/
 [Compose-badge]: https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white
